@@ -2,7 +2,7 @@
 
 NOTE:- HTML and CSS file(Code) of this Project is not written by me. I have written only JS file for this project. This project is not responsive(only Desktop version).
 
-GAME:- Guess My Number (Live Project 👉 Link:- https://pig-dice-game-javascript-project.netlify.app/ )
+GAME:- Guess My Number (Live Project 👉 Link:- https://guess-my-number-game-js.netlify.app/ )
 
 //Working of Game and their Rules:-
 1. In This Game, We have to Guess the number between 1 and 20. 
